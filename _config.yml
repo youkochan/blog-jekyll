@@ -1,0 +1,13 @@
+highlighter: pygments
+
+# Site settings
+title: Y.Q.'s Blog
+email: iyeqing@icloud.com
+description: > # My Simple Blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://youkochan.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  youkochan
+
+# Build settings
+markdown: rdiscount
